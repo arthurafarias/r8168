@@ -139,3 +139,8 @@
 	RTL8168B/8111B supports Jumbo Frame size up to 4 kBytes.
 	RTL8168C/8111C and RTL8168CP/8111CP support Jumbo Frame size up to 6 kBytes.
 	RTL8168D/8111D supports Jumbo Frame size up to 9 kBytes.
+
+# Other Mirrors
+
+1. https://github.com/mtorromeo/r8168
+2. https://www.realtek.com/Download/List?cate_id=584
